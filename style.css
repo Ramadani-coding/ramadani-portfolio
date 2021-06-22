@@ -33,3 +33,11 @@ section {
   text-decoration: none;
 }
 /* akhir */
+
+.gallery-img {
+  width: 100%;
+}
+
+#contsct {
+  background-color: #f4d4b8;
+}
